@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chhatbarsunil
 
  I am skilled and enthusiastic in 
-ASP.NET Core Web API,MVC ,Csharp(C#), 
+ASP.NET Core Web API, MVC ,Csharp(C#), 
 Vue.js, Angular.js, Angular, Node.js,
-MySQL, MSSQL Server, MongoDb,PHP Core, 
+MySQL, MSSQL Server, MongoDb, PHP Core, 
 Html, CSS, JavaScript, 
 Software Testing Life Cycle (SDLC),
 Deployment in Windows server , Linux server, etc. 
