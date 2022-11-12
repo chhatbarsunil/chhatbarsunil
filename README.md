@@ -5,7 +5,7 @@ ASP.NET Core Web API, MVC ,Csharp(C#),
 Vue.js, Angular.js, Angular, Node.js,
 MySQL, MSSQL Server, MongoDb, PHP Core, 
 Html, CSS, JavaScript, 
-Software Testing Life Cycle (SDLC),
+Software Development Life Cycle (SDLC) and
 Deployment in Windows server , Linux server, etc. 
 
 I am ready to bring myself to each Learning demand
