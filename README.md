@@ -19,5 +19,6 @@ Skype:  join.skype.com/invite/wdltZGgtRTte
 
 LinkedIn:  linkedin.com/in/sunil-chhatbar-738595a7
 
-Resume link : https://drive.google.com/file/d/1METOVqFHva9uG-5H1S9MDhBDY8Bmokkb/view?usp=drivesdk![image](https://user-images.githubusercontent.com/85289747/209168042-fd0e362a-9f7d-4358-b84b-d58d847f5693.png)
+Resume link : https://drive.google.com/file/d/1lev-hPt4GFr_odxekZNbQ--swWKq8W6h/view?usp=drivesdk
+
 
