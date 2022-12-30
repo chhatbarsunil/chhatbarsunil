@@ -1,15 +1,29 @@
 - 👋 Hi, I’m @chhatbarsunil
 
- I am skilled and enthusiastic in 
-ASP.NET Core Web API, MVC ,Csharp(C#), 
-Vue.js, Angular.js, Angular, Node.js,
-MySQL, MSSQL Server, MongoDb, PHP Core, 
-Html, CSS, JavaScript, 
-Software Development Life Cycle (SDLC) and
-Deployment in Windows server , Linux server, etc. 
+        A Full Stack Developer 
+( DotNet | MEAN Stack | WebDeveloper ) 
+with Expertise in Multi-Stack Development and 
+ready to explore 
+the distinguished codingstandards, 
+productivity, and performance level 
+including each 
+new upgraded technology learning.
 
-I am ready to bring myself to each Learning demand
-at its peak level of productivity.
+Skilled, Experienced, and enthusiastic 
+about serving skills in 
+ASP.NET Core Web API in C-Sharp(C#), 
+MVC Architecture, 
+Node.js API with Express, 
+Vue.js, and Vuetify framework, 
+Angular.js, and Angular-latest, 
+Database MySQL, MSSQLServer, MongoDB, 
+PHP Core, jQuery, Html, CSS, JavaScript, 
+Software Development Life Cycle (SDLC) 
+Agile- methodologies, 
+Deployment in Windows server, 
+Linux server, 
+Ubuntu Server and 
+Project Management using Git
 
 - 📫 How to reach me ...+91 9033951028
 - Email1 : sunilchhatbar@outlook.com    
