@@ -26,8 +26,8 @@ Ubuntu Server and
 Project Management using Git
 
 - 📫 How to reach me ...+91 9033951028
-- Email1 : sunilchhatbar@outlook.com    
-- Email2 : chhatbarsunil@gmail.com
+- Email1 : chhatbarsunil@gmail.com
+- Email2 : sunilchhatbar@outlook.com    
 
 Skype:  join.skype.com/invite/wdltZGgtRTte
 
