@@ -12,7 +12,7 @@ new upgraded technology learning.
 Skilled, Experienced, and enthusiastic 
 about serving skills in 
 ASP.NET Core Web API and MVC  in C-Sharp(C#), 	95%
-Angular-latest and Angular.js,	95%
+Angular 13,14,15,17 and latest and Angular.js,	95%
 Vue2, Vue3, and Vuetify framework,         92%
 Node.js API and Express, 	80%
 MySQL, MSSQLServer, MongoDB,	80%
