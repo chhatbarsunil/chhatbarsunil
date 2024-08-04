@@ -1,5 +1,5 @@
-👋 Hi, I’m @chhatbarsunil
-  
+👋 Hi, I’m Sunil Chhatbar
+
 Experienced Full stack developer hones the skills and expertise in
 ASP.NET Core Web API and MVC  in C-Sharp(C#), 	                95%
 Angular 13,14,15,17,18 and latest and Angular.js,	        95%
