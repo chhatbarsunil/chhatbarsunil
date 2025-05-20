@@ -36,7 +36,6 @@ LinkedIn:  linkedin.com/in/sunil-chhatbar-738595a7
 
 Website : https://chhatbarsunil.wordpress.com/
 
-Resume link: https://drive.google.com/file/d/18oB8a3XpmggYMMuuG1tGEiOvkZ70OEvv/view
 
 
 
