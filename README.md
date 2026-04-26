@@ -2,7 +2,6 @@
 
 Sr. Full-Stack Developer | Tech Architect | Technical Program Manager | Strategic Leader
 
-
 🧠 About Me
 
 I am an experienced Full Stack Developer with deep expertise in frontend and backend technologies, DevOps practices, and cloud solutions. I specialize in building scalable, responsive, and efficient web applications using modern frameworks and tools.
@@ -96,6 +95,7 @@ With hands-on experience across major cloud platforms — Azure, AWS, GCP, and F
 - 🌐 Portfolio: https://chhatbarsunil.wordpress.com/portfolio 
 - 🌍 Website: https://chhatbarsunil.wordpress.com 
 - 💬 Teams: Join Microsoft Teams 📧 Email : sunilchhatbar@outlook.com to receive a Teams invite.
+- 🌐 Microsoft Learn: https://learn.microsoft.com/en-us/users/sunilchhatbar-7542/achievements
 
 
 💥 Summary
